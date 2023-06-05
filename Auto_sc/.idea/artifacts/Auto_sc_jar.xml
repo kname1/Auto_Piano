@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Auto_sc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Auto_sc_jar</output-path>
+    <root id="archive" name="Auto_sc.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/resourse/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Auto_sc" />
+    </root>
+  </artifact>
+</component>
